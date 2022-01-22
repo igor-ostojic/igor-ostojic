@@ -1,3 +1,5 @@
+![hello world!](https://i.imgur.com/eJpQGVk.gif)
+
 - 👋 Hi, I’m @igor-ostojic
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React, Firebase, Node JS, Tailwind
