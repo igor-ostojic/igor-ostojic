@@ -1,4 +1,4 @@
-![hello world!](https://i.imgur.com/eJpQGVk.gif)
+![hello world!](https://i.imgur.com/TJXgoOz.gif)
 
 - 👋 Hi, I’m @igor-ostojic
 - 👀 I’m interested in Front End Development
