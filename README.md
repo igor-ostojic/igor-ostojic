@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @igor-ostojic
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React, Firebase, Node JS, Tailwind
+- 🌱 I’m currently learning Firebase, Node JS, Tailwind
 - 💞️ I’m looking to collaborate on Front End / Full Stack projects
 - 📫 How to reach me : igorostojic1996@gmail.com / +381 66 900 8450
 
