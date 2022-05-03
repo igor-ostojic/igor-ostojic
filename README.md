@@ -1,10 +1,10 @@
 ![hello world!](https://i.imgur.com/TJXgoOz.gif)
 
 - 👋 Hi, I’m @igor-ostojic
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Firebase, Node JS, Tailwind
-- 💞️ I’m looking to collaborate on Front End / Full Stack projects
-- 📫 How to reach me : igorostojic1996@gmail.com / +381 66 900 8450
+- 👀 Junior Front End Developer from Serbia
+- 🌱 I’m currently learning Gatsby & GraphQL
+- 💞️ I’m always looking to collaborate on Front End / Full Stack projects
+- 📫 How to reach me : igorostojic1996@gmail.com 
 
 
 <!---
