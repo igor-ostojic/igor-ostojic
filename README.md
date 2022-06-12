@@ -4,7 +4,7 @@
 - 👀 Junior Front End Developer from Serbia
 - 🌱 I’m currently learning Gatsby & GraphQL
 - 💞️ I’m always looking to collaborate on Front End / Full Stack projects
-- 📫 How to reach me : igorostojic1996@gmail.com 
+- 📫 How to reach me : igorostojic.work@gmail.com 
 
 
 <!---
