@@ -1,4 +1,4 @@
-![hello world!](https://i.imgur.com/TJXgoOz.gif)
+![hello world!](https://i.ibb.co/QjF9pWW/profile-banner-final.png)
 
 - Hi, I’m @igor-ostojic
 - Front End Developer from Serbia
