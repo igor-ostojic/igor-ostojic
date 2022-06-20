@@ -1,8 +1,6 @@
 ![hello world!](https://i.ibb.co/QjF9pWW/profile-banner-final.png)
 
-- Hi, I’m @igor-ostojic
 - Front End Developer from Serbia
-- I’m currently learning React Native, Framer Motion & GraphQL
 - I’m always looking to collaborate on Front End / Full Stack projects
 - How to reach me : igorostojic.work@gmail.com 
 
